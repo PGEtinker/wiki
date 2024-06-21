@@ -1,0 +1,16 @@
+services:
+  hugo:
+    build: ./hugo-docker
+    command: "--baseURL \"${BASE_URL}\""
+    volumes:
+      - ".:/usr/src/app"
+    user: "${UID}:${GID}"
+  nginx:
+    image: 'nginx'
+    restart: always
+    ports:
+      - "${PORT}:80"
+    volumes:
+      - "./public:/usr/share/nginx/html/wiki"
+    depends_on:
+      - hugo
