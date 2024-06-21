@@ -1,0 +1,4 @@
+baseURL = 'https://pgetinker.com/wiki/'
+languageCode = 'en-us'
+title = 'PGEtinker the Wiki'
+theme = 'hugo-book'
