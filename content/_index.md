@@ -1,41 +1,28 @@
 ---
-title: Introduction
+title: PGEtinker | The Wiki
 type: docs
 ---
 
-# Acerbo datus maxime
+# PGEtinker | The Wiki
 
-{{< columns >}}
-## Astris ipse furtiva
+{{< hint danger >}}
+**THIS DOCUMENTATION IS CURRENTLY UNFINISHED**  
+Content on these pages are not complete or finished. Check back later for updates.
+{{< /hint >}}
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+## What is PGEtinker?
 
-<--->
-
-## Suis quot vota
-
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
-{{< /columns >}}
+PGEtinker is an interactive online application which allows it's users to write
+olcPixelGameEngine applications inside a web browser, without the need to install
+and use a compiler/toolchain on your local machine.
 
 
-## Tempora nisi nunc
+## What is it used for?
 
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
+PGEtinker can be used for a wide variety of purposes ranging from experimenting, quick
 
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
+## Whos's responsible for this monstrosity?
 
-## Locis suis novi cum suoque decidit eadem
-
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
+PGEtinker is the brain child of Moros1138, but really this project would not have been
+possible without the efforts of Javidx9 (the creator of the olcPixelGameEngine) and the 
+OneLoneCoder community in general. Individuals who have made significant contributions are singled out and mentioned in in the [acknowledgements](docs/credits)
