@@ -2,3 +2,8 @@ languageCode = 'en-us'
 title = 'PGEtinker the Wiki'
 theme = 'hugo-book'
 enableGitInfor = true
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+lastmod = ["lastmod", ":git", "date", "publishDate"]
+publishDate = ["publishDate", "date"]
+expiryDate = ["expiryDate"]
