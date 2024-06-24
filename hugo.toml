@@ -12,7 +12,7 @@ pluralizeListTitles = false
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 
-title = 'My Documentation Site'
+title = 'PGEtinker'
 
 theme = 'hugo-geekdoc'
 
