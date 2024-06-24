@@ -1,5 +1,7 @@
 baseURL = 'https://example.org/'
 
+defaultContentLanguage = "en"
+
 disablePathToLower = true
 
 enableGitInfo = true
@@ -18,6 +20,11 @@ theme = 'hugo-geekdoc'
 
 [frontmatter]
   lastmod = ["lastmod", ":git", "date", "publishDate"]
+
+[languages.en]
+languageName = "English"
+contentDir = "content/en"
+weight = 10
 
 [markup]
   [markup.goldmark.renderer]
