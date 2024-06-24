@@ -1,19 +1,24 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My Documentation Site'
-theme = 'hugo-geekdoc'
 
-pluralizeListTitles = false
-
-# Geekdoc required configuration
-pygmentsUseClasses = true
-pygmentsCodeFences = true
 disablePathToLower = true
 
-# Required if you want to render robots.txt template
+enableGitInfo = true
+
 enableRobotsTXT = true
 
-# Needed for mermaid shortcodes
+languageCode = 'en-us'
+
+pluralizeListTitles = false
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+
+title = 'My Documentation Site'
+
+theme = 'hugo-geekdoc'
+
+[frontmatter]
+  lastmod = ["lastmod", ":git", "date", "publishDate"]
+
 [markup]
   [markup.goldmark.renderer]
     # Needed for mermaid shortcode
