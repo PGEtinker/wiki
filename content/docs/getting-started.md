@@ -4,8 +4,5 @@ weight: 1
 # geekdocFlatSection: false
 # geekdocToc: 6
 # geekdocHidden: false
+date: Jun 24, 2024
 ---
-
-# Getting Started
-
-Testing 1234
