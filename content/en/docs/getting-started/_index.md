@@ -1,7 +1,7 @@
 ---
 title: "Getting Started"
 weight: 1
-# geekdocFlatSection: false
+# geekdocFlatSection: true
 # geekdocToc: 6
 # geekdocHidden: false
 ---

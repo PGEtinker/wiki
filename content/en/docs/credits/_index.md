@@ -1,8 +1,8 @@
 ---
 title: "Credits"
 weight: 2
-# geekdocFlatSection: false
-geekdocToc: 6
+# geekdocFlatSection: true
+# geekdocToc: 6
 # geekdocHidden: false
 ---
 
