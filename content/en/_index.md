@@ -17,7 +17,7 @@ and use a compiler/toolchain on your local machine.
 PGEtinker can be used for a many things. The primary purpose of PGEtinker is to
 make C++ programming more accessible to learners but it can be used by experienced
 programmers who want to quickly test an idea in code or perhaps during travel when
-you're away from your development environment, PGEtinker has been tested laptops,
+you're away from your development environment, PGEtinker has been tested on laptops,
 chromebooks, and even works well enough on mobile devices for those wanting to
 program on the go.
 
