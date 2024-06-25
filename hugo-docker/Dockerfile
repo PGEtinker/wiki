@@ -2,6 +2,7 @@ FROM alpine:latest
 
 RUN apk upgrade
 RUN apk add --no-cache --repository=https://dl-cdn.alpinelinux.org/alpine/edge/community hugo
+RUN apk add git
 
 ENV GID=1000
 ENV UID=1000
