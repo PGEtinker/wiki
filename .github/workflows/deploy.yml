@@ -15,6 +15,7 @@ jobs:
         with:
           command: ls scripts
           host: ${{ secrets.HOST }}
+          port: ${{ secrets.PORT }}
           username: ${{ secrets.USERNAME }}
           privateKey: ${{ secrets.PRIVATE_KEY}}
         env:
