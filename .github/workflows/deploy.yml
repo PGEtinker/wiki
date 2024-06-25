@@ -16,7 +16,6 @@ jobs:
           command: ls scripts
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USERNAME }}
-          passphrase: ${{ secrets.PASSPHRASE }}
           privateKey: ${{ secrets.PRIVATE_KEY}}
         env:
           CI: true
