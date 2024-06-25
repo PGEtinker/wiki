@@ -1,4 +1,4 @@
-name: Command via SSH
+name: Deploy
 
 on:
   workflow_dispatch:
@@ -13,7 +13,7 @@ jobs:
       - name: test ssh
         uses: garygrossgarten/github-action-ssh@release
         with:
-          command: ls scripts
+          command: ${{ secrets.DEPLOY_COMMAND }}
           host: ${{ secrets.HOST }}
           port: ${{ secrets.PORT }}
           username: ${{ secrets.USERNAME }}
