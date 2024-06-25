@@ -1,0 +1,10 @@
+.gdoc-markdown__link:link,
+.gdoc-markdown__link:active,
+.gdoc-markdown__link:visited {
+    color: var(--link-color);
+    text-decoration: none;
+}
+
+.gdoc-markdown__link:hover {
+    text-decoration: underline;
+}
