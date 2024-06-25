@@ -6,9 +6,12 @@ weight: 1
 # geekdocHidden: false
 ---
 
-{{< hint type=warning >}}
-**THIS PAGE IS CURRENTLY UNFINISHED**  
-Content on this page is not complete or finished. Check back later for updates.
-{{< /hint >}}
+Using PGEtinker should be pretty straight forward. In it's default layout you type
+code in the left, click the Run button to see it running on the right. The rest
+is going to be dictated by your familiarity, or lack thereof, of C++ and the
+olc::PixelGameEngine.
 
-Testing 1234
+This wiki will contain examples and tutorials. Until these docs are fleshed out I
+invite you to check out [Javid's youtube channel](https://youtube.com/@javidx9).
+
+
