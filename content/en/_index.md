@@ -30,5 +30,5 @@ but really this project would not have been possible without the efforts of
 <a class="gdoc-markdown__link" href="https://www.youtube.com/@Javidx9" target="_blank">Javidx9</a>
 (the creator of the olc::PixelGameEngine)
 and the OneLoneCoder community in general. Individuals who have made significant
-contributions are [singled out and mentioned here](docs/credits).
+contributions are [singled out and mentioned here](docs/credits/).
 
