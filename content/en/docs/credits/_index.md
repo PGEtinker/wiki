@@ -55,6 +55,9 @@ of Emscripten.
 
 # Other Noteworthy Projects
 
+
+
+{{< columns >}}
 Apache HTTP Server Project,
 Bash,
 Cascading Style Sheets,
@@ -69,6 +72,9 @@ Github Actions,
 Golden Layout,
 Hugo,
 Hypertext Transfer Protocol,
+
+<--->
+
 Hypertext Markup Language,
 Javascript,
 Language Server Protocol,
@@ -80,6 +86,9 @@ Nodejs,
 Open Graph Protocol,
 PHP Hypertext Preprocessor,
 PHP Composer,
+
+<--->
+
 Proxmox,
 Qemu,
 Secure Copy Protocol,
@@ -91,6 +100,7 @@ Typescript,
 Ubuntu Server,
 Visual Studio Code,
 Vite
+{{< /columns >}}
 
 # Special Thanks
 
@@ -100,6 +110,7 @@ today. To each of them, from the heart, thank you.
 
 They are:
 
+{{< columns >}}
 **Javidx9**,
 **SaladinAkara**,
 Alexio,
@@ -109,6 +120,9 @@ Ciarán,
 Creator,
 Dandistine,
 Diego, 
+
+<--->
+
 DragonEye,
 Fluff,
 Gorbit99,
@@ -118,9 +132,13 @@ Johnnyg63,
 Magetzub,
 Sigonasr2,
 Slavka,
+
+<--->
+
 SlicEnDicE,
 Technicjelle,
 TeePeeDee,
 Qwerasd,
 and OneLoneCoder Community in it's entirety, even the permagreens.
+{{< /columns >}}
 
