@@ -28,7 +28,7 @@ single-file, cross-platform graphics and user input framework used for games,
 visualizations, algorithm exploration, and learning. It was developed by [YouTuber
 "javidx9"](https://youtube.com/@javidx9) as an assistive tool for many of his
 videos. The PixelGameEngine, or PGE, as many in the OneLoneCoder community call it,
-is PGEtinker's namesake. PGE is amazing. PGEtinker brings PGE to your browser! Thank
+is PGEtinker's namesake. PGE is amazing! Thank
 you Javid.
 
 ## Compiler Explorer
