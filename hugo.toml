@@ -33,7 +33,7 @@ languageCode = 'en-us'
 
 [params]
   geekdocToC = 3
-  geekdocNextPrev = false
+  geekdocNextPrev = true
   geekdocBreadcrumb = true
   geekdocSearch = true
   geekdocSearchShowParent = true
