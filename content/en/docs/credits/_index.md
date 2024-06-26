@@ -71,10 +71,10 @@ of Emscripten.
 [Github Actions](https://github.com/features/actions),
 [Golden Layout](https://golden-layout.com/),
 [Hugo](https://gohugo.io/),
-[Hypertext Transfer Protocol](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview),
 
 <--->
 
+[Hypertext Transfer Protocol](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview),
 [Hypertext Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML),
 [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript),
 [Language Server Protocol](https://microsoft.github.io/language-server-protocol/),
@@ -85,10 +85,10 @@ of Emscripten.
 [Nodejs](https://nodejs.org/),
 [Open Graph Protocol](https://ogp.me/),
 [OpenSSH](https://www.openssh.com/),
-[PHP Hypertext Preprocessor](https://www.php.net/),
 
 <--->
 
+[PHP Hypertext Preprocessor](https://www.php.net/),
 [PHP Composer](https://getcomposer.org/),
 [Miniaudio](https://miniaud.io/),
 [Proxmox](https://www.proxmox.com/),
