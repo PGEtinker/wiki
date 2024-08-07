@@ -1,7 +1,7 @@
 services:
   hugo:
     build: ./hugo-docker
-    command: "--baseURL \"${BASE_URL}\""
+    command: "--baseURL \"${BASE_URL}\" -w"
     volumes:
       - ".:/usr/src/app"
     user: "${UID}:${GID}"
