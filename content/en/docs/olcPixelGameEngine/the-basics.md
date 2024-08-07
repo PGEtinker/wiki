@@ -6,3 +6,5 @@ weight: 2
 # geekdocHidden: false
 ---
 
+## Drawing Primitives
+
