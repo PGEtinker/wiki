@@ -94,3 +94,22 @@ FillTriangle(olc::vi2d{10, 30}, olc::vi2d{30, 10}, olc::vi2d{50, 30}, olc::WHITE
 
 <a class="gdoc-markdown__link" href="https://pgetinker.com/s/SVZaEo1yFBC" target="_blank">See an example on PGEtinker</a>
 
+## Drawing Text
+
+### DrawString
+
+Draws a single line of text - traditional monospaced
+
+```cpp
+// with integers
+DrawString(10, 10, "Hello, World", olc::WHITE, 1);
+
+// with olc::vi2d
+DrawString(olc::vi2d{10, 10}, "Hello, World", olc::WHITE, 1);
+```
+
+**Color:** Color has a default value of ``olc::WHITE``<br>
+**Scale:** Scale has a default value of ``1``
+
+<a class="gdoc-markdown__link" href="https://pgetinker.com/s/A8FZbptTm77" target="_blank">See an example on PGEtinker</a>
+
