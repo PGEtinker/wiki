@@ -24,3 +24,19 @@ Draw(olc::vi2d{5, 5}, olc::WHITE);
 
 <a class="gdoc-markdown__link" href="https://pgetinker.com/s/bluvB6PHs4" target="_blank">See an example on PGEtinker</a>
 
+### Lines
+
+Draws a line from the point (**x1**,**y1**) to (**x2**,**y2**) with the provided color.
+
+```cpp
+// with integers
+DrawLine(10, 10, 20, 20, olc::WHITE);
+
+// with olc::vi2d
+DrawLine(olc::vi2d{10, 10}, olc::vi2d{20, 20}, olc::WHITE);
+```
+
+**Color:** Color has a default value of ``olc::WHITE``
+
+<a class="gdoc-markdown__link" href="https://pgetinker.com/s/nz1PhTB89Qt" target="_blank">See an example on PGEtinker</a>
+
