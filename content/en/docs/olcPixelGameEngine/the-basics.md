@@ -40,3 +40,21 @@ DrawLine(olc::vi2d{10, 10}, olc::vi2d{20, 20}, olc::WHITE);
 
 <a class="gdoc-markdown__link" href="https://pgetinker.com/s/nz1PhTB89Qt" target="_blank">See an example on PGEtinker</a>
 
+### Circles
+
+Draws a circle at the point (**x**,**y**) with provided **radius** and **color**.
+
+```cpp
+// with integers
+DrawCircle(10, 10, 20, olc::WHITE);
+FillCircle(10, 10, 20, olc::WHITE);
+
+// with olc::vi2d
+DrawCircle(olc::vi2d{10, 10}, 20, olc::WHITE);
+FillCircle(olc::vi2d{10, 10}, 20, olc::WHITE);
+```
+
+**Color:** Color has a default value of ``olc::WHITE``
+
+<a class="gdoc-markdown__link" href="#" target="_blank">See an example on PGEtinker</a>
+
