@@ -20,5 +20,7 @@ Draw(5, 5, olc::WHITE);
 Draw(olc::vi2d{5, 5}, olc::WHITE);
 ```
 
+**Color:** Color has a default value of ``olc::WHITE``
+
 <a class="gdoc-markdown__link" href="https://pgetinker.com/s/bluvB6PHs4" target="_blank">See an example on PGEtinker</a>
 
