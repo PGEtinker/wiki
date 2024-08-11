@@ -158,3 +158,9 @@ The ``textSize.y`` property will contain the height.
 **Note:** this function does not account for scaling.
 
 <a class="gdoc-markdown__link" href="https://pgetinker.com/s/53iEqiXd0t" target="_blank">See an example on PGEtinker</a>
+
+
+
+
+
+
