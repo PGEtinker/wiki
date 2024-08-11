@@ -74,7 +74,7 @@ FillRect(olc::vi2d{10, 10}, olc::vi2d{20, 20}, olc::WHITE);
 
 **Color:** Color has a default value of ``olc::WHITE``
 
-<a class="gdoc-markdown__link" href="https://pgetinker.com/s/K2LRwL0VQKT" target="_blank">See an example on PGEtinker</a>
+<a class="gdoc-markdown__link" href="https://pgetinker.com/s/YT603TSflAK" target="_blank">See an example on PGEtinker</a>
 
 ### Triangles
 
