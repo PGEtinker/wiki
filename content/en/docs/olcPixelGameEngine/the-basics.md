@@ -92,5 +92,5 @@ FillTriangle(olc::vi2d{10, 30}, olc::vi2d{30, 10}, olc::vi2d{50, 30}, olc::WHITE
 
 **Color:** Color has a default value of ``olc::WHITE``
 
-<a class="gdoc-markdown__link" href="https://pgetinker.com/s/7Oi0ooo-4DA" target="_blank">See an example on PGEtinker</a>
+<a class="gdoc-markdown__link" href="https://pgetinker.com/s/SVZaEo1yFBC" target="_blank">See an example on PGEtinker</a>
 
