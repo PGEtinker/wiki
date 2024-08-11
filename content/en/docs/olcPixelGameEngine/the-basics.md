@@ -129,3 +129,17 @@ The ``textSize.y`` property will contain the height.
 
 <a class="gdoc-markdown__link" href="https://pgetinker.com/s/A8FZbptTm77" target="_blank">See an example on PGEtinker</a>
 
+### DrawStringProp
+
+Draws a single line of text - non-monospaced
+
+```cpp
+// with integers
+DrawStringProp(10, 10, "Hello, World", olc::WHITE);
+
+// with olc::vi2d
+DrawStringProp(olc::vi2d{10, 10}, "Hello, World", olc::WHITE);
+```
+
+<a class="gdoc-markdown__link" href="https://pgetinker.com/s/53iEqiXd0t" target="_blank">See an example on PGEtinker</a>
+
