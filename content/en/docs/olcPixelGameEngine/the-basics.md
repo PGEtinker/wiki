@@ -58,3 +58,21 @@ FillCircle(olc::vi2d{10, 10}, 20, olc::WHITE);
 
 <a class="gdoc-markdown__link" href="#" target="_blank">See an example on PGEtinker</a>
 
+### Rectangles
+
+Draws or fills a rectangle at the point (**x**,**y**) with the provide **width**, **height**, and **color**.
+
+```cpp
+// with integers
+DrawRect(10, 10, 20, 20, olc::WHITE);
+FillRect(10, 10, 20, 20, olc::WHITE);
+
+// with old::vi2d
+DrawRect(olc::vi2d{10, 10}, olc::vi2d{20, 20}, olc::WHITE);
+FillRect(olc::vi2d{10, 10}, olc::vi2d{20, 20}, olc::WHITE);
+```
+
+**Color:** Color has a default value of ``olc::WHITE``
+
+<a class="gdoc-markdown__link" href="#" target="_blank">See an example on PGEtinker</a>
+
