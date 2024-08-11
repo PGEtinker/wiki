@@ -113,3 +113,19 @@ DrawString(olc::vi2d{10, 10}, "Hello, World", olc::WHITE, 1);
 
 <a class="gdoc-markdown__link" href="https://pgetinker.com/s/A8FZbptTm77" target="_blank">See an example on PGEtinker</a>
 
+### GetTextSize
+
+For convenience, there's also  function to calculate the pixel size
+of a given string. This is the traditional monospaced version.
+
+```cpp
+olc::vi2d textSize = GetTextSize("Hello, World");
+```
+
+The ``textSize.x`` property will contain the width.<br>
+The ``textSize.y`` property will contain the height.
+
+**Note:** this function does not account for scaling.
+
+<a class="gdoc-markdown__link" href="https://pgetinker.com/s/A8FZbptTm77" target="_blank">See an example on PGEtinker</a>
+
