@@ -76,3 +76,21 @@ FillRect(olc::vi2d{10, 10}, olc::vi2d{20, 20}, olc::WHITE);
 
 <a class="gdoc-markdown__link" href="#" target="_blank">See an example on PGEtinker</a>
 
+### Triangles
+
+Draws or fills a triangle between points (x1,y1), (x2,y2) and (x3,y3)
+
+```cpp
+// with integers
+DrawTriangle(10, 30, 30, 10, 50, 30, olc::WHITE);
+FillTriangle(10, 30, 30, 10, 50, 30, olc::WHITE);
+
+// with olc::vi2d
+DrawTriangle(olc::vi2d{10, 30}, olc::vi2d{30, 10}, olc::vi2d{50, 30}, olc::WHITE);
+FillTriangle(olc::vi2d{10, 30}, olc::vi2d{30, 10}, olc::vi2d{50, 30}, olc::WHITE);
+```
+
+**Color:** Color has a default value of ``olc::WHITE``
+
+<a class="gdoc-markdown__link" href="https://pgetinker.com/s/zlr5yCaTTP2" target="_blank">See an example on PGEtinker</a>
+
