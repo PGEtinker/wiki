@@ -56,7 +56,7 @@ FillCircle(olc::vi2d{10, 10}, 20, olc::WHITE);
 
 **Color:** Color has a default value of ``olc::WHITE``
 
-<a class="gdoc-markdown__link" href="#" target="_blank">See an example on PGEtinker</a>
+<a class="gdoc-markdown__link" href="https://pgetinker.com/s/Mq8vp5I6CFL" target="_blank">See an example on PGEtinker</a>
 
 ### Rectangles
 
