@@ -6,7 +6,7 @@ weight: 2
 # geekdocHidden: false
 ---
 
-## Drawing Primitives
+## Drawing Primitive Shapes
 
 ### Points
 
