@@ -13,3 +13,5 @@ olc::PixelGameEngine.
 
 This wiki will contain examples and tutorials. Until these docs are fleshed out I
 invite you to check out [Javid's youtube channel](https://youtube.com/@javidx9).
+
+Stinky poopy
