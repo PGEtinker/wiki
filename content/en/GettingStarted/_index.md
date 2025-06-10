@@ -91,4 +91,4 @@ versions of the libraries in a list.
 You can change which versions are in use by clicking the "Select
 Library Versions" button.
 
-![Settings Dialog with Libraries Focused](/images/settings-dialog-libraries.png)
+![Settings Dialog with Libraries Focused](/wiki/images/settings-dialog-libraries.png)
