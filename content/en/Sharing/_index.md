@@ -11,10 +11,10 @@ to other people you can Share it.
 
 Click "Share" in the Sharing menu.
 
-![](/images/sharing-menu.png)
+![](/wiki/images/sharing-menu.png)
 
 It will compile your code and if it's successful, a dialog will appear.
 
-![](/images/sharing-dialog.png)
+![](/wiki/images/sharing-dialog.png)
 
 Copy the URL and post it wherever you want to share it!

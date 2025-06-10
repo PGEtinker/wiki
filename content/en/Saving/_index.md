@@ -12,7 +12,7 @@ so you can host it on your own site.
 
 Click "Download HTML" in the Sharing menu.
 
-![](/images/sharing-menu2.png)
+![](/wiki/images/sharing-menu2.png)
 
 It will download a file named "pgetinker.html" that you can upload
 to your own server!
