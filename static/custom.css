@@ -4,7 +4,9 @@
     color: var(--link-color);
     text-decoration: none;
 }
-
+.gdoc-nav__entry.is-active,
+.gdoc-nav__entry:hover,
 .gdoc-markdown__link:hover {
     text-decoration: underline;
+    text-decoration-style: solid !important;
 }
